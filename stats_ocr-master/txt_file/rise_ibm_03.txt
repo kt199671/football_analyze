@@ -1,0 +1,58 @@
+IBM BigBlue vs ノジマ相模原ライズ
+2020/11/23(月) 会場 : 富士通スタジアム川崎
+ドライプブチャート
+
+IBM BigBlue
+
+#     Time Time Time Start                Start           #        Yds        Yds        Yds         1st       Last End
+
+Q     Start END Poss 攻和守交代時プレイ BallOn       Play       Gain        Pen       Total      Down      BallOn 攻守交代時プレイ
+
+1 12:00 6:30 5:30 Kickoff          BB 31       12        45         5        50         3     NR19 4thDown x
+
+1     生37 125 3:12 Punt              BB 33          7         46          0         46          2     NR 21 FGGood
+
+2 。 11:14 9:36 1:38 Punt             BB 25         3          8          0          8          0     BB 33 Punt
+
+2     9:23 8:51 0:32 Kickoff           BB 24         3          0          0          0          0     BB 24 Interception
+
+2     5:25 3:56 1:29 Kickoff           BB 25         4        75          0        75          2     NR0 TouchDown
+
+2     2:34 0:00 2:34 Punt             BB 43        10        45          0        45          3     NR12 20終了
+
+3     7718 5:11 2:07 Kickoff           BB 34         8        65          0        65          4     NR 1     Interception
+
+3     生55 3:02 1:53 Kickoff           BB 25         5        75          0        75          3     NR0 TouchDown
+4 11:23 9:17 2:06 Kickoff           BB 34         5        49        -10        39          1     NR 27 4th Down x
+4     6:59 6:27 0:32 Punt             BB 26         3          0         -5         -5          0     BB 21 Punt
+
+4     生13 1:52 2:21 Punt             BB 34         9        37        15        52         3     NR 14 FG Block
+ノジマ相模原ライズ
+
+#     Time Time Time Start                Start           #        Yds        Yds        Yds         1st       Last End
+
+Q     Start END Poss 攻和守交代時プレイ BallOn       Play       Gain        Pen       Total      Down      BalIOn 攻守交代時プレイ
+
+1     6:30 4:37 1:53 4th Down *      NR 19         3          8          0          8          0     NR27 Punt
+
+1     1:25 11:14 2:11 Kickoff           NR 30         6         12        -10          2          1     NR32 Punt
+
+2     9:36 9:23 0:13 Punt             NR 40         1         60          0        60          1     BBO TouchDown
+
+2     8:51 5:25 3:26 Interception      BB 49         誰        34         5        39          2     BB10 FGGood
+
+2     3:56 。 2:34 。 1:22 Kickoff           NR 34         3          6          0          6          0     NR40 Punt
+
+3 12:00 7:18 4:42 Kickoff          NR 44         8        33          5        38         2     BB18 FGGood
+
+3     5:11 4:55 0:16 Interception      NR 3           1         97          0        97          1     NR0 TouchDown
+
+3     3:02 11:23 3:39 Kickoff           NR 31         9        68          1         69          5     NR0 TouchDown
+4     9:17 。 6:59 2:18 4thDown *      NR 27         5         15          5        20          1     NR47 Punt
+
+4     6:27 413 2:14 Punt             NR 41         5        -11          0        -11          1     NR30 Punt
+
+4      1:52 。 0:00 1:52 FG Block          NR 45           3          13           0          13           1      BB42 試合終了
+攻撃時間                                                                                            1st       2nd        3rd        4th      Total
+Home      IBM BigBlue                                                         8:42      6:13      生00      邊59     23:54
+Visitor      ノジマ相模原ライズ                                                           3:18       5:47       8:00       7:01      24:06

@@ -1,0 +1,63 @@
+IBM BigBlue vs ノジマ相模原ライズ
+2020/11/23(月) 会場 : 富士通スタジアム川崎
+個人スタッツ
+IBM BigBlue                                                ノジマ相模原ライズ
+RUSHING                       ATT YDS AVG LG TD       RUSHING                      ATT YDS AVG LG TD
+#32 元山 伊織                    6 21 35    8    0      #6 KURT PALANDECH             7 114 16.3 97    1
+#3 Kevin Craft                     3   10 3.3   11    0       #26 森本 統介                     9 。 37 4.1    9     0
+#7 馬島臨太郎               +   9 9.0   9   0     #20 DERECKAKIRA WILLIAMS         12 23 19   7   1
+#43 山口 祐介                   +    3 3.0    3    0
+#47 山中 大輔                    3    3 SO    3    0
+#4 鈴木恵多                2   2 1.0   1   0
+#28 伊藤 隆貴                     +   -1 -1.0    0    0
+#14 遠藤 健史                       1 -5 -5.0    0    0
+Total                            18 42 2.3   11    0       Total                           28 174 6.2 97     2
+PASSING          ATT CMP YDS TD LG INT RT     PASSING          ATT CMP YDS TD LG INT RT
+#3 Kevin Craft       48 28 393   2 60   2 81.3    #6 KURT PALANDECH  23  11 161   1  60   0 85.6
+#7 馬島 臨太郎           3    1   10    0   10    0 43.7
+Total                  51   29 403    2 60    2 79.1       Total                 23   11 161    1   60    0 85.6
+PASS RECEIVING                    REC YDS AVG LG TD        PASS RECEIVING                   REC YDS AVG LG TD
+2 白居混 、 7 107 153 39 1 96誠林寺 1 860600 6 r
+#40 John Stanton               7 106 151 60 1     #85 八木雄平                2 45 225 33 0
+#87 松岡 直希                     2 44 22.0 34    0      #23 伊藤 雅恭                    2   19 9.5   10    0
+#21 佐藤 航生                     2 。 41 20.5   34    0      #15 出島崇秀                    2   18 9.0   10    0
+#86 九里 遼太                    2 33 16.5   26    0      #21 秋山光                     2   13 6.5   14    0
+#14 遠藤 健史                2 。 31 15.5 24   0     #20 DERECK AKIRA WILLIAMS          1   6 6.0   6   0
+#85 鈴木 隆貴                     2 。 21 10.5   11    0      #77 原田大輔                    0    2 0.0    2    0
+#43 山口祐介                    2   12 6.0    6    0      #25 東松瑛介                   1   -2 -2.0    0    0
+#80 河村暁光                      上    8 8.0    8    0
+#4 鈴木恵多                上   4 4.0   4   0
+#47 山中大輔                    1 -4 -4.0    0    0
+Total                            29 403 13.9   60    2       Total                           11 161 14.6 60     1
+INTERCEPTIONS                  NO YDS AVG LG TD       INTERCEPTIONS                 NO YDS AVG LG TD
+ーー      LEEHIGHTOWER 1 3 30 3 0
+#5 田中 喜貴                     1    0 0.0    0     0
+
+Total                             0    0 0.0    0    0       Total                            2    き 15    3     0
+PUNTING              NO YDS AVG NET TBIN20 LG       PUNTING             NO YDS AVG NET TB IN20 LG
+#5 Kevin Coghlan         2 75 37.5 65    0    0 。 41       #13 鈴木 健太           5 227 45.4 178    0    0    58
+Total                   2 75 37.5 65    0    0 41       Total                  5 227 45.4 178    0    0    58
+PUNT RETURNS                NO YDS AVG FC LG TD        PUNT RETURNS               NO YDS AVG FC LG TD
+#86 九里 遼太                 3   39 13.0    0 18    0       #22 渡辺 健太                1 31 31.0    0    0     0
+#85 鈴木 隆貴                 1   10 10.0    0 10    0      #23 伊藤 雅恭                2 。 10 50    0    7    0
+Total                        4 。 49 123    0 18    0       Total                       3 。 41 13.7    0    7     0
+KICKOFF RETURNS       NO YDS AVG FC LG TD    KICKOFF RETURNS      NO YDS AVG FC LG TD
+# 鈴木恵多                2   27 27.0    1   27    0      #11 財津 弘棚               2 。 19 9.5    0   16    0
+#21 佐藤 航生                 1   24 24.0    0 24    0       #3 佐久間徹                1 14 14.0    0   14     0
+#35 Gamboa Herbert           1   17 17.0    0 17    0      #2 宮幸崇                 1 11 11.0    0   11    0
+#87 松岡 直希                 1    7 70    0    7    0
+Total                        5   75 18.8    1   27    0       Total                       4 44 11.0    0   16     0
+その他 RETURNS                NO YDS AVG FC LG TD        その他 RETURNS               NO YDS AVG FC LG TD
+Total                        0    0 00    0    0    0       Total                       0    0 0.0    0    0     0
+
+IBM BigBlue
+
+FUMBLES              FUM LOST OWN-REC YDS   TD FORCED OPP-REC YDS TD OUT-BDS
+
+Total                            0    0         0    0     0        0         0    0    0         0
+
+ノジマ相模原ライズ
+
+FUMBLES              FUM LOST OWN-REC YDS   TD FORCED OPP-REC YDS TD OUT-BDS
+
+Total                            0    0         0    0     0        0         0    0    0         0

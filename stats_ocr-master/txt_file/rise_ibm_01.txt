@@ -1,0 +1,61 @@
+sy
+2020 X1 SUPER 秋季リーク戦
+試合結果報告書
+NFA Copyright by The National Football Association. All rights reserved. This summary and play-by-play is for the express purpose of assisting media in their
+coverage of the game: any other use of this material is prohibited without the written permission of the National Football Association.             更新日 : 2020/11/23
+試合日 : 2020/11/23(月)               IBM BigBlue vs ノジマ相模原ライズ               試合開始時間 : 14時00分
+天候 : 晴れ                                        会場 : 富士通スタジアム川崎                            試合終了時間 : 16時48分
+ーーーーーーーーーーーーーーーーーー 。 フィールドゴール[成功() & 失敗| ーーーーーーーーーーーーーーーーーーーーーーーーー ーー
+#19 佐藤 太希            (39) 31B                                           #59 笹尾 健              (28) (35)
+1           2           3           4          TBS       Total
+ホーム:       IBM BigBlue                                           3          7          7          0                    17
+ビジター:     ノジマ相模原ライズ                                      0          10         10          7                     27
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー 得点経過 ーー一ーー
+チーム名     Qtr 経過時間 得点選手獲得ヤード, プレイ内容(PAT) [ドライブ情報]                                        ホーム ビジター
+IBM          10      10:35  #19 佐藤 太希, 39yd, Field Goal                                                                         3        0
+ノジマ相模原 20      2:37  #6 KURT PALANDECH一#26 森本 統介, 60yd, PASS (#59 笹尾 健, Kick) [1回 60y, 0:13]              3        7
+ノジマ相模原 20       6:35 、#59 笹尾 健, 28yd, Field Goal                                                                            3       10
+IBM         20      8:04 、#3 Kevin Craft一#40 John Stanton, 60yd, PASS (#19 佐藤 太希, Kick) [4回 75y, 1:29]                10       10
+ノジマ相模原 3Q       442  #59 笹尾 健, 35yd, Field Goal                                                                            10       13
+ノジマ相模原 3Q      7:05 #6 KURT PALANDECH, 97yd, RUN (#59 笹尾 健, Kick) [1回 97y, 0:16]                              10       20
+IBM         3Q      8:58  #3 Kevin Craft一#82 白根 混, 39yd, PASS ば19 佐藤 太希, Kick) [5回 75y, 1:53]                     17       20
+ノジマ相模原 4Q0      0:37 #20 DERECK AKIRA WILLIAMS, 1yd, RUN (#59 笹尾 健, Kick) [9回 69y, 3:39]                       17       27
+ーーーーーーーーーーーーーーーーーーーーーーーーーーー- チームスタッツ ーー
+ホーム           ビジター
+バア ノジマ相欄原
+1st Down 更新数                                                              21               14
+By Rushing                                                               2                4
+By Passing                                                              18                7
+By Penalty                                                                1                4
+3rd Down コンバージョン(更新率)                                                1/10(10%)       5/13(39%)
+4th Down コンバージョン(更新率)                                              1/4(25%)         0/0(--%)
+総獲得ヤード数                                                              445             335
+攻撃プレイ合計                                                          69              51
+平均獲得ヤード                                                          6.4              6.6
+RUN獲得ヤード数                                                             42             174
+RUNプレイ数                                                            18              28
+RUN平均獲得ヤード                                                     2.3              6.2
+PASS獲得ヤード                                                             403             161
+PASS 試投数一成功数-INT数                                            51-29-2        23-11-0
+Kickoff数一TouchBack数                                                           4-0               6-1
+PUNT数一平均ヤード                                                      2-37.5          5-45.4
+ブロックされたPUNT回数                                                       0                 0
+総リターンヤード(Kickoffでの獲得ヤードは除く)                                       49                 44
+PUNTリターン数一ヤード                                       4-49          3-41
+Kickoffリターン数ヤード                                           5-75           4-44
+Interceptionリターン数ヤード                                      0-0            233
+PENALTY(総数、ヤード数)                                          7-41          7-55
+FUMBLE(総数、ロスト回数)                                                0-0             0-0
+TOUCHDOWN                                                                         2                 3
+Rushing                                                                          0                 2
+Passing                                                                          2                  1
+Interceptions                                                                    0                 0
+PAT(成功数一総数)                                                                  2-2               3-3
+KICK 成功数総数                                                      2-2             3-3
+PASS 2pts 成功数一総数                                         0-0           0-0
+RUN 2pts 成功数総数                                                  0-0             0-0
+Field Goal成功数総数                                                       1-2             2-2
+SAFETY数                                                                             0                 0
+最終得点                                                                              17                27
+攻撃時間                                                                          23:54            24:06
+観衆 : 963人                                                                                                            試合時間 : 2時48分
